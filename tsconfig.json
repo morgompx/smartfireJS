@@ -2,8 +2,8 @@
     "compilerOptions": {
         "target": "es5",
         "removeComments": true,
-        "module": "amd",
-        "outFile": "./build/smartfire.js",
+        "module": "commonjs",
+        "outDir": "./build/",
         "sourceRoot": "./",
         "rootDir": "./",
         "sourceMap": true
